@@ -33,7 +33,6 @@
           "nutritionalInfo": "Calories ≈ 698 kcal, Protein ≈ 59 grams"
         }
       },
-      // Add meals for other days (Tuesday to Sunday)
     },
     "Cutting": {
       "Monday": {
@@ -68,7 +67,6 @@
           "nutritionalInfo": "Calories ≈ 365 cal, Protein ≈ 21 grams"
         }
       },
-      // Add meals for other days (Tuesday to Sunday)
     }
   }
 }
