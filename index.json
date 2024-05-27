@@ -12,7 +12,7 @@
           "ingredients": "4 strips of bacon, 2 eggs, 2 sausages",
           "nutritionalInfo": "Calories ≈ 600 kcal, Protein ≈ 36 grams"
         },
-        "White Pasta With Pesto": {
+        "Pesto White Pasta": {
           "image": "https://media.istockphoto.com/id/180836471/photo/pasta-with-pesto-sauce.webp?b=1&s=170667a&w=0&k=20&c=rqgtkWQyT5IsXMISxZgTPsY4owL50qrwtGlAce76Qhw=",
           "ingredients": "white pasta, pesto sauce",
           "nutritionalInfo": "Calories ≈ 756 kcal, Protein ≈ 21 grams"
@@ -29,7 +29,7 @@
           "ingredients": "4 strips of bacon, 2 eggs, 2 sausages",
           "nutritionalInfo": "Calories ≈ 600 kcal, Protein ≈ 36 grams"
         },
-        "Steak With Potatoes and Beans": {
+        "Steak, Potatoes, and Beans": {
           "image": "https://media.istockphoto.com/id/157695807/photo/filet-mignon.webp?b=1&s=170667a&w=0&k=20&c=Py_MVUjPTY2Y4ZN5d47bZ1JA0j0i7KN2nHplTWbatUQ=",
           "ingredients": "beef steak, red potatoes, green beans",
           "nutritionalInfo": "Calories ≈ 570 kcal, Protein ≈ 61 grams"
@@ -77,7 +77,7 @@
           "ingredients": "1 cup of milk, 1 cup of frozen berries, 1 scoop of protein powder",
           "nutritionalInfo": "Calories ≈ 290 cal, Protein ≈ 20 grams"
         },
-        "Spicy Avocado Sourdough Toast and Eggs": {
+        "Avocado Toast and Eggs": {
           "image": "https://media.istockphoto.com/id/1927669243/photo/sandwich-with-mashed-avocado-boiled-egg-and-arugula-on-bread-homemade-breakfast.webp?b=1&s=170667a&w=0&k=20&c=D298ZFMPQul6OsxdVX9C_vfRihYZkrnIjevSLYgJqXA=",
           "ingredients": "2 slices of Ezekiel whole grain bread, 1 egg, 1/2 cup egg whites, Half an avocado, Hot sauce of your choice, Red pepper flakes, to taste",
           "nutritionalInfo": "Calories ≈ 368 cal, Protein ≈ 25 grams"
@@ -94,7 +94,7 @@
           "ingredients": "1 cup of milk, 1 cup of frozen berries, 1 scoop of protein powder",
           "nutritionalInfo": "Calories ≈ 290 cal, Protein ≈ 20 grams"
         },
-        "Spicy Avocado Sourdough Toast and Eggs": {
+        "Avocado Toast and Eggs": {
           "image": "https://media.istockphoto.com/id/1927669243/photo/sandwich-with-mashed-avocado-boiled-egg-and-arugula-on-bread-homemade-breakfast.webp?b=1&s=170667a&w=0&k=20&c=D298ZFMPQul6OsxdVX9C_vfRihYZkrnIjevSLYgJqXA=",
           "ingredients": "2 slices of Ezekiel whole grain bread, 1 egg, 1/2 cup egg whites, Half an avocado, Hot sauce of your choice, Red pepper flakes, to taste",
           "nutritionalInfo": "Calories ≈ 368 cal, Protein ≈ 25 grams"
@@ -111,7 +111,7 @@
           "ingredients": "1 cup of milk, 1 cup of frozen berries, 1 scoop of protein powder",
           "nutritionalInfo": "Calories ≈ 290 cal, Protein ≈ 20 grams"
         },
-        "Spicy Avocado Sourdough Toast and Eggs": {
+        "Avocado Toast and Eggs": {
           "image": "https://media.istockphoto.com/id/1927669243/photo/sandwich-with-mashed-avocado-boiled-egg-and-arugula-on-bread-homemade-breakfast.webp?b=1&s=170667a&w=0&k=20&c=D298ZFMPQul6OsxdVX9C_vfRihYZkrnIjevSLYgJqXA=",
           "ingredients": "2 slices of Ezekiel whole grain bread, 1 egg, 1/2 cup egg whites, Half an avocado, Hot sauce of your choice, Red pepper flakes, to taste",
           "nutritionalInfo": "Calories ≈ 368 cal, Protein ≈ 25 grams"
@@ -128,7 +128,7 @@
           "ingredients": "1 cup of milk, 1 cup of frozen berries, 1 scoop of protein powder",
           "nutritionalInfo": "Calories ≈ 290 cal, Protein ≈ 20 grams"
         },
-        "Spicy Avocado Sourdough Toast and Eggs": {
+        "Avocado Toast and Eggs": {
           "image": "https://media.istockphoto.com/id/1927669243/photo/sandwich-with-mashed-avocado-boiled-egg-and-arugula-on-bread-homemade-breakfast.webp?b=1&s=170667a&w=0&k=20&c=D298ZFMPQul6OsxdVX9C_vfRihYZkrnIjevSLYgJqXA=",
           "ingredients": "2 slices of Ezekiel whole grain bread, 1 egg, 1/2 cup egg whites, Half an avocado, Hot sauce of your choice, Red pepper flakes, to taste",
           "nutritionalInfo": "Calories ≈ 368 cal, Protein ≈ 25 grams"
@@ -145,7 +145,7 @@
           "ingredients": "1 cup of milk, 1 cup of frozen berries, 1 scoop of protein powder",
           "nutritionalInfo": "Calories ≈ 290 cal, Protein ≈ 20 grams"
         },
-        "Spicy Avocado Sourdough Toast and Eggs": {
+        "Avocado Toast and Eggs": {
           "image": "https://media.istockphoto.com/id/1927669243/photo/sandwich-with-mashed-avocado-boiled-egg-and-arugula-on-bread-homemade-breakfast.webp?b=1&s=170667a&w=0&k=20&c=D298ZFMPQul6OsxdVX9C_vfRihYZkrnIjevSLYgJqXA=",
           "ingredients": "2 slices of Ezekiel whole grain bread, 1 egg, 1/2 cup egg whites, Half an avocado, Hot sauce of your choice, Red pepper flakes, to taste",
           "nutritionalInfo": "Calories ≈ 368 cal, Protein ≈ 25 grams"
